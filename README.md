@@ -193,3 +193,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes. For vulnerabi
 ## License
 
 [MIT](LICENSE). The included application icon is distributed with the project under the same license.
+
+<img width="866" height="825" alt="PS1" src="https://github.com/user-attachments/assets/73c15455-8714-4ff9-acde-8586adf581a8" />
+
+<img width="865" height="821" alt="PS2" src="https://github.com/user-attachments/assets/a82f40de-0b65-4b9d-8032-c05f2c3c0656" />
